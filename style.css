@@ -86,3 +86,30 @@ a {
   transform: translateX(-50%);
   transform: translateY(-50%);
 }
+
+.emailField
+{
+  width:auto;
+  position: absolute;
+  top: 30%;
+  left: 60%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
+}
+.passwordField {
+  position: absolute;
+  top: 34%;
+  left: 60%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
+}
+
+.boton2 {
+  background-color: lightblue;
+  position: absolute;
+  top: 37%;
+  left: 60%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
+  border:none;
+}
