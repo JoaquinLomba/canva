@@ -1,6 +1,6 @@
 .maestro {
   position: absolute;
-  top: 33%;
+  top: 40%;
   left: 15%;
   transform: translateX(-50%);
   transform: translateY(-50%);
@@ -66,6 +66,12 @@ a {
   text-decoration: none;
 }
 
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+}
+
 .botonsignup {
   position: absolute;
   top: 6%;
@@ -87,15 +93,15 @@ a {
   transform: translateY(-50%);
 }
 
-.emailField
-{
-  width:auto;
+.emailField {
+  width: auto;
   position: absolute;
   top: 30%;
   left: 60%;
   transform: translateX(-50%);
   transform: translateY(-50%);
 }
+
 .passwordField {
   position: absolute;
   top: 34%;
@@ -111,5 +117,119 @@ a {
   left: 60%;
   transform: translateX(-50%);
   transform: translateY(-50%);
-  border:none;
+  border: none;
+}
+
+.imagen2 {
+  width: 1000px;
+  margin: 0px;
+}
+
+.maestro2 {
+  position: absolute;
+  top: 37%;
+  left: 17%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
+  width: 400px;
+  height: 700px;
+  border: 1px solid black;
+}
+
+.logo2 {
+  position: absolute;
+  top: 10%;
+  left: 17%;
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  border-radius: 100%;
+}
+
+.textoP {
+  display: inline-block;
+  position: absolute;
+  top: 15%;
+  left: 17%;
+  color: white;
+  width: 400px;
+  font-size: 60px;
+}
+
+.textoS {
+  display: inline-block;
+  position: absolute;
+  top: 50%;
+  left: 17%;
+  color: white;
+  width: 400px;
+  font-size: 23px;
+}
+
+.listaP {
+  color: white;
+  position: absolute;
+  top: 60%;
+  left: 17%;
+  font-size: 30px;
+}
+
+.coronalogo {
+  width: 30px;
+  position: absolute;
+  top: 15%;
+  left: 40%;
+}
+
+.pro2 {
+  color: white;
+  position: absolute;
+  top: 13%;
+  left: 49%;
+}
+
+.extraoption {
+  position: absolute;
+  top: 40%;
+  left: 60%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
+}
+
+.nameField {
+  width: auto;
+  position: absolute;
+  top: 26%;
+  left: 60%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
+}
+
+.correo1 {
+  background-color: red;
+  width: 300px;
+  text-align: center;
+  margin: 0px;
+}
+
+.id2 {
+  background-color: blue;
+  width: 300px;
+  text-align: center;
+  margin: 0px;
+}
+
+.hola3 {
+  background-color: green;
+  width: 300px;
+  text-align: center;
+  margin: 0px;
+}
+
+.maestrohello {
+  position: absolute;
+  top: 50%;
+  left: 43%;
+  transform: translateX(-50%);
+  transform: translateY(-50%);
 }
